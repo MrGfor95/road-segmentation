@@ -1,5 +1,5 @@
 # road-segmentation
-deepUNet
-edge-detection
-road-extraction
+deepUNet /n
+edge-detection /n
+road-extraction 
 
